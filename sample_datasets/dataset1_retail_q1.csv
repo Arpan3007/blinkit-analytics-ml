@@ -1,0 +1,251 @@
+product_id,product_name,brand,category,mrp,selling_price,discount_pct,availability,inventory,rating,delivery_eta,platform,sales_volume
+SKU_57716,Lays Milk 500g,Pepsi,Beverages,202.42,202.42,0,Out of Stock,32,4.3,17,PlatformA,993
+SKU_71985,Lays Butter 1L,Pepsi,Bakery,265.78,265.78,0,In Stock,0,3.2,25,PlatformA,637
+SKU_22887,Amul Cheese Pack of 2,Britannia,Snacks,231.21,115.61,50,In Stock,37,4.9,24,PlatformA,449
+SKU_95983,Britannia Bread Pack of 2,Pepsi,Snacks,409.43,348.02,15,Low Stock,26,3.3,11,PlatformA,940
+SKU_80358,Local Noodles 1L,Nestle,Snacks,248.1,124.05,50,Out of Stock,45,3.8,22,PlatformA,305
+SKU_10980,Pepsi Milk Pack of 2,Nestle,Beverages,349.47,332.0,5,Low Stock,19,3.8,10,PlatformA,450
+SKU_13503,Nestle Cheese 200g,Amul,Beverages,385.45,385.45,0,In Stock,22,3.9,12,PlatformA,101
+SKU_58203,Amul Cola 500g,Nestle,Beverages,69.97,66.47,5,In Stock,39,4.8,20,PlatformA,328
+SKU_85737,Nestle Milk 1L,Tropicana,Staples,384.59,307.67,20,In Stock,24,4.1,17,PlatformA,536
+SKU_47208,Nestle Cola 1L,Tropicana,Staples,484.44,242.22,50,Low Stock,45,3.2,24,PlatformA,916
+SKU_67735,Local Water 200g,Nestle,Bakery,134.86,134.86,0,In Stock,41,3.6,23,PlatformA,896
+SKU_23303,Nestle Eggs Pack of 2,Britannia,Staples,449.24,359.39,20,In Stock,16,3.3,19,PlatformA,808
+SKU_72084,Pepsi Cola 200g,Local,Bakery,493.3,394.64,20,Low Stock,3,4.7,22,PlatformA,939
+SKU_84649,Nestle Water 1L,Amul,Dairy,215.3,204.53,5,In Stock,40,3.5,9,PlatformA,815
+SKU_15708,Haldirams Eggs 500g,Amul,Beverages,265.85,265.85,0,In Stock,12,4.6,8,PlatformA,497
+SKU_26579,Pepsi Chips 1L,Haldirams,Staples,384.35,345.92,10,In Stock,0,3.9,9,PlatformA,703
+SKU_34607,Nestle Juice 200g,Britannia,Dairy,186.42,177.1,5,In Stock,26,5.0,11,PlatformA,131
+SKU_46408,Local Cheese 200g,Tropicana,Snacks,280.29,140.15,50,In Stock,48,3.4,12,PlatformA,628
+SKU_41650,Lays Cola 200g,Pepsi,Bakery,438.78,438.78,0,Low Stock,50,4.9,19,PlatformA,225
+SKU_58206,Lays Cola 1L,Lays,Staples,426.3,362.36,15,In Stock,7,3.8,22,PlatformA,686
+SKU_65630,Haldirams Cola Pack of 2,Britannia,Staples,185.74,176.45,5,In Stock,10,4.9,12,PlatformA,982
+SKU_53459,Tropicana Butter 1L,Lays,Bakery,249.24,199.39,20,In Stock,48,4.1,17,PlatformA,209
+SKU_84132,Amul Cheese 500g,Nestle,Bakery,398.71,358.84,10,Low Stock,3,4.5,8,PlatformA,946
+SKU_42589,Britannia Milk 1L,Tropicana,Staples,244.22,232.01,5,In Stock,3,3.5,10,PlatformA,986
+SKU_67005,Pepsi Juice Pack of 2,Amul,Beverages,120.31,60.16,50,Out of Stock,36,3.5,14,PlatformA,519
+SKU_29469,Tropicana Bread 200g,Haldirams,Bakery,489.42,416.01,15,In Stock,15,3.2,15,PlatformA,866
+SKU_91022,Nestle Water 500g,Local,Staples,290.26,145.13,50,In Stock,20,3.1,25,PlatformA,404
+SKU_77924,Local Chips 200g,Lays,Dairy,74.68,74.68,0,In Stock,2,4.1,10,PlatformA,174
+SKU_32811,Lays Chips 500g,Pepsi,Beverages,74.97,37.48,50,Out of Stock,20,3.2,12,PlatformA,689
+SKU_87015,Tropicana Eggs Pack of 2,Tropicana,Beverages,230.85,219.31,5,In Stock,46,3.7,24,PlatformA,311
+SKU_86262,Haldirams Chips 1L,Pepsi,Beverages,239.4,119.7,50,Low Stock,28,4.4,22,PlatformA,100
+SKU_37237,Amul Bread 200g,Tropicana,Bakery,485.28,388.22,20,Low Stock,16,4.2,8,PlatformA,884
+SKU_41635,Amul Chips Pack of 2,Haldirams,Beverages,302.07,302.07,0,In Stock,46,3.6,17,PlatformA,552
+SKU_64984,Tropicana Chips Pack of 2,Tropicana,Bakery,139.94,139.94,0,Out of Stock,29,3.0,10,PlatformA,693
+SKU_51497,Nestle Juice Pack of 2,Pepsi,Staples,32.11,32.11,0,Low Stock,22,3.6,25,PlatformA,321
+SKU_92958,Local Milk 200g,Nestle,Dairy,431.13,431.13,0,In Stock,29,4.7,25,PlatformA,247
+SKU_81972,Pepsi Eggs 500g,Haldirams,Snacks,468.93,445.48,5,In Stock,49,3.2,14,PlatformA,240
+SKU_94663,Local Bread 200g,Local,Snacks,181.95,154.66,15,Low Stock,3,3.5,19,PlatformA,491
+SKU_76181,Local Cheese 500g,Pepsi,Bakery,69.87,34.94,50,In Stock,22,4.2,15,PlatformA,139
+SKU_55973,Local Milk Pack of 2,Amul,Snacks,271.31,230.61,15,Low Stock,38,4.2,14,PlatformA,394
+SKU_13500,Amul Cheese 500g,Lays,Snacks,353.85,353.85,0,Low Stock,9,4.6,8,PlatformA,667
+SKU_40981,Local Cola 1L,Haldirams,Bakery,23.33,18.66,20,Low Stock,2,3.5,24,PlatformA,326
+SKU_70036,Amul Cheese 500g,Britannia,Beverages,104.85,104.85,0,Low Stock,10,3.3,9,PlatformA,968
+SKU_55335,Haldirams Butter Pack of 2,Pepsi,Snacks,171.99,171.99,0,In Stock,12,3.6,11,PlatformA,995
+SKU_58563,Britannia Cola 500g,Nestle,Staples,492.64,418.74,15,In Stock,29,3.9,17,PlatformA,434
+SKU_58678,Britannia Butter 1L,Haldirams,Dairy,149.66,149.66,0,Out of Stock,34,3.0,8,PlatformA,368
+SKU_91377,Lays Noodles 1L,Pepsi,Bakery,216.69,216.69,0,In Stock,19,5.0,24,PlatformA,177
+SKU_73652,Pepsi Bread 500g,Britannia,Beverages,424.95,361.21,15,In Stock,31,4.0,12,PlatformA,113
+SKU_56216,Lays Bread 200g,Tropicana,Beverages,190.12,190.12,0,Out of Stock,30,4.9,13,PlatformA,607
+SKU_60032,Nestle Bread Pack of 2,Tropicana,Staples,87.48,43.74,50,In Stock,30,4.9,17,PlatformA,613
+SKU_66504,Tropicana Chips Pack of 2,Tropicana,Bakery,120.68,120.68,0,Out of Stock,19,3.8,13,PlatformA,901
+SKU_41985,Nestle Juice 1L,Haldirams,Snacks,397.34,357.61,10,Out of Stock,44,4.1,15,PlatformA,976
+SKU_45419,Nestle Water 200g,Local,Beverages,123.79,123.79,0,In Stock,45,3.0,12,PlatformA,543
+SKU_62972,Nestle Chips 1L,Amul,Bakery,374.22,336.8,10,In Stock,28,4.1,11,PlatformA,731
+SKU_72632,Britannia Water Pack of 2,Pepsi,Bakery,60.21,54.19,10,In Stock,12,3.5,17,PlatformA,274
+SKU_37390,Local Juice 200g,Amul,Bakery,391.48,391.48,0,In Stock,5,4.7,25,PlatformA,979
+SKU_61291,Haldirams Butter Pack of 2,Tropicana,Snacks,174.76,174.76,0,Out of Stock,0,4.0,16,PlatformA,141
+SKU_57342,Local Cheese 500g,Amul,Snacks,422.2,211.1,50,Out of Stock,12,3.4,19,PlatformA,689
+SKU_45117,Local Milk 500g,Local,Dairy,242.96,121.48,50,In Stock,8,3.6,23,PlatformA,659
+SKU_27946,Lays Bread 200g,Pepsi,Staples,467.87,374.3,20,In Stock,0,3.3,25,PlatformA,366
+SKU_47908,Nestle Noodles 1L,Pepsi,Staples,432.87,367.94,15,Out of Stock,2,3.3,12,PlatformA,557
+SKU_28341,Pepsi Noodles Pack of 2,Nestle,Beverages,150.72,135.65,10,Out of Stock,37,3.2,22,PlatformA,228
+SKU_13901,Nestle Bread Pack of 2,Haldirams,Staples,116.07,110.27,5,In Stock,0,4.1,10,PlatformA,920
+SKU_88345,Nestle Cola Pack of 2,Britannia,Beverages,478.61,406.82,15,Low Stock,0,5.0,25,PlatformA,214
+SKU_75054,Nestle Juice 200g,Haldirams,Snacks,213.86,213.86,0,Low Stock,0,4.1,25,PlatformA,264
+SKU_22489,Haldirams Bread Pack of 2,Local,Beverages,264.37,264.37,0,Low Stock,0,4.7,8,PlatformA,561
+SKU_27835,Haldirams Bread 1L,Lays,Bakery,299.86,269.87,10,Out of Stock,0,3.6,24,PlatformA,472
+SKU_39534,Pepsi Juice 1L,Tropicana,Snacks,486.82,486.82,0,In Stock,23,3.4,18,PlatformA,850
+SKU_61585,Pepsi Milk Pack of 2,Haldirams,Bakery,372.15,353.54,5,In Stock,33,4.9,19,PlatformA,147
+SKU_75789,Lays Bread Pack of 2,Amul,Beverages,341.07,289.91,15,In Stock,8,3.4,23,PlatformA,299
+SKU_55918,Local Cola Pack of 2,Haldirams,Staples,58.89,58.89,0,In Stock,1,4.1,19,PlatformA,393
+SKU_50084,Local Cheese 200g,Tropicana,Bakery,164.78,82.39,50,Out of Stock,43,4.4,24,PlatformA,792
+SKU_69662,Britannia Milk 500g,Local,Bakery,202.78,202.78,0,In Stock,4,3.9,8,PlatformA,555
+SKU_24635,Lays Milk Pack of 2,Local,Snacks,199.36,199.36,0,In Stock,38,4.0,25,PlatformA,189
+SKU_67554,Amul Noodles 500g,Local,Staples,219.6,175.68,20,Out of Stock,36,3.2,23,PlatformA,888
+SKU_52795,Local Cola 200g,Amul,Bakery,36.23,34.42,5,In Stock,34,4.2,17,PlatformA,212
+SKU_95758,Amul Chips Pack of 2,Pepsi,Staples,187.35,177.98,5,Out of Stock,41,3.3,18,PlatformA,557
+SKU_88327,Tropicana Butter Pack of 2,Haldirams,Dairy,221.89,188.61,15,Low Stock,19,3.4,16,PlatformA,168
+SKU_18163,Local Cola 500g,Pepsi,Staples,128.61,64.31,50,In Stock,17,3.3,25,PlatformA,189
+SKU_34127,Haldirams Butter 200g,Nestle,Snacks,484.2,242.1,50,In Stock,47,3.5,17,PlatformA,254
+SKU_48984,Lays Bread 200g,Lays,Beverages,444.97,400.47,10,Low Stock,0,3.3,24,PlatformA,812
+SKU_97652,Amul Water 500g,Pepsi,Snacks,69.04,62.14,10,In Stock,28,3.3,21,PlatformA,782
+SKU_94745,Tropicana Juice 200g,Lays,Bakery,480.51,480.51,0,In Stock,11,4.7,8,PlatformA,563
+SKU_50211,Haldirams Milk 1L,Local,Staples,203.99,193.79,5,In Stock,2,4.9,16,PlatformA,806
+SKU_37281,Amul Water 500g,Nestle,Beverages,168.08,142.87,15,In Stock,36,4.6,19,PlatformA,807
+SKU_53103,Nestle Cola 200g,Britannia,Bakery,494.42,444.98,10,Out of Stock,0,3.1,23,PlatformA,555
+SKU_65671,Pepsi Cheese Pack of 2,Amul,Dairy,115.01,115.01,0,In Stock,41,5.0,17,PlatformA,172
+SKU_29478,Lays Juice 500g,Local,Staples,239.89,227.9,5,In Stock,0,4.2,9,PlatformA,977
+SKU_34109,Amul Noodles 1L,Nestle,Staples,224.28,190.64,15,In Stock,26,4.2,15,PlatformA,803
+SKU_61770,Local Butter 200g,Nestle,Staples,227.14,113.57,50,Low Stock,31,4.7,9,PlatformA,295
+SKU_45683,Tropicana Water Pack of 2,Haldirams,Bakery,372.1,372.1,0,Low Stock,46,3.7,24,PlatformA,768
+SKU_71551,Tropicana Water Pack of 2,Lays,Beverages,438.62,219.31,50,In Stock,37,3.6,24,PlatformA,730
+SKU_12810,Haldirams Juice 200g,Local,Beverages,220.41,176.33,20,Out of Stock,2,3.2,12,PlatformA,809
+SKU_61951,Local Bread 200g,Local,Snacks,303.47,303.47,0,In Stock,0,4.3,23,PlatformA,745
+SKU_74349,Pepsi Juice 1L,Haldirams,Beverages,148.61,141.18,5,Out of Stock,26,3.2,20,PlatformA,658
+SKU_53227,Nestle Cheese Pack of 2,Britannia,Staples,115.99,115.99,0,In Stock,40,3.5,8,PlatformA,436
+SKU_75445,Local Cheese Pack of 2,Lays,Staples,66.27,66.27,0,In Stock,47,4.2,9,PlatformA,143
+SKU_88046,Britannia Cheese Pack of 2,Haldirams,Staples,382.7,191.35,50,Out of Stock,49,4.8,20,PlatformA,113
+SKU_27272,Lays Bread Pack of 2,Pepsi,Bakery,212.77,212.77,0,In Stock,0,4.8,24,PlatformA,539
+SKU_24254,Amul Cola 200g,Local,Beverages,397.92,397.92,0,Out of Stock,2,4.3,14,PlatformA,501
+SKU_36497,Lays Juice 1L,Nestle,Snacks,493.04,419.08,15,Low Stock,25,4.0,23,PlatformA,865
+SKU_61676,Local Cheese 1L,Local,Staples,92.82,92.82,0,In Stock,40,3.0,19,PlatformA,809
+SKU_56014,Nestle Bread 200g,Lays,Beverages,479.6,455.62,5,Low Stock,21,4.2,13,PlatformA,219
+SKU_21992,Amul Chips 1L,Pepsi,Beverages,73.75,73.75,0,Low Stock,37,4.5,23,PlatformA,406
+SKU_71388,Haldirams Chips 1L,Nestle,Beverages,426.57,383.91,10,Low Stock,19,4.3,14,PlatformA,380
+SKU_55058,Lays Chips Pack of 2,Pepsi,Beverages,352.93,352.93,0,In Stock,0,4.7,17,PlatformA,765
+SKU_85551,Amul Milk 500g,Nestle,Snacks,205.01,184.51,10,In Stock,34,3.2,20,PlatformA,963
+SKU_97750,Nestle Eggs 500g,Tropicana,Bakery,161.78,137.51,15,In Stock,41,3.1,9,PlatformA,341
+SKU_45025,Haldirams Cola 1L,Britannia,Bakery,175.18,140.14,20,In Stock,15,3.5,22,PlatformA,538
+SKU_59248,Tropicana Eggs 1L,Tropicana,Beverages,121.58,103.34,15,In Stock,19,3.3,16,PlatformA,197
+SKU_56465,Pepsi Butter Pack of 2,Amul,Snacks,184.63,156.94,15,In Stock,18,3.6,20,PlatformA,345
+SKU_14453,Local Butter 200g,Nestle,Bakery,170.99,162.44,5,Out of Stock,14,3.8,14,PlatformA,335
+SKU_22369,Local Bread 1L,Local,Staples,344.51,275.61,20,In Stock,5,4.0,12,PlatformA,796
+SKU_81805,Nestle Water 1L,Local,Bakery,77.74,77.74,0,Out of Stock,17,4.0,9,PlatformA,724
+SKU_86604,Lays Cola Pack of 2,Amul,Dairy,78.67,66.87,15,In Stock,35,4.6,18,PlatformA,865
+SKU_36312,Tropicana Butter 1L,Amul,Dairy,401.44,401.44,0,In Stock,5,3.2,19,PlatformA,638
+SKU_40104,Amul Juice 1L,Amul,Dairy,392.2,333.37,15,In Stock,21,4.4,23,PlatformA,368
+SKU_59571,Britannia Cheese Pack of 2,Local,Dairy,173.76,147.7,15,Out of Stock,30,3.9,11,PlatformA,615
+SKU_26087,Local Chips 500g,Nestle,Bakery,34.5,34.5,0,In Stock,39,3.6,24,PlatformA,802
+SKU_61648,Amul Cola 500g,Amul,Beverages,117.97,58.98,50,In Stock,29,3.6,15,PlatformA,326
+SKU_39989,Britannia Butter 1L,Haldirams,Snacks,224.9,112.45,50,Out of Stock,4,4.6,9,PlatformA,691
+SKU_35155,Local Noodles 500g,Pepsi,Staples,374.81,374.81,0,In Stock,4,4.7,24,PlatformA,390
+SKU_51278,Haldirams Eggs 500g,Tropicana,Beverages,201.05,170.89,15,In Stock,1,3.1,8,PlatformA,769
+SKU_23946,Lays Noodles 1L,Local,Bakery,458.65,229.32,50,Low Stock,15,4.9,13,PlatformA,250
+SKU_39739,Lays Eggs 500g,Haldirams,Bakery,333.15,166.57,50,In Stock,41,4.9,12,PlatformA,190
+SKU_88767,Nestle Cola 1L,Britannia,Snacks,173.53,173.53,0,In Stock,5,3.3,8,PlatformA,220
+SKU_43767,Britannia Milk 1L,Pepsi,Dairy,215.6,215.6,0,Out of Stock,44,4.2,23,PlatformA,140
+SKU_21778,Britannia Butter 1L,Britannia,Beverages,171.63,137.3,20,Out of Stock,27,4.6,8,PlatformA,466
+SKU_62431,Local Cola 1L,Local,Dairy,73.71,73.71,0,Low Stock,28,4.6,13,PlatformA,408
+SKU_61655,Amul Juice Pack of 2,Britannia,Snacks,498.3,498.3,0,Out of Stock,45,3.7,14,PlatformA,577
+SKU_42967,Haldirams Chips 500g,Local,Dairy,296.7,296.7,0,In Stock,8,3.6,18,PlatformA,676
+SKU_23428,Local Butter 500g,Tropicana,Snacks,347.54,312.79,10,Low Stock,21,3.2,18,PlatformA,332
+SKU_42719,Pepsi Butter Pack of 2,Pepsi,Bakery,195.93,176.34,10,Out of Stock,8,3.5,21,PlatformA,810
+SKU_14278,Britannia Milk Pack of 2,Tropicana,Beverages,451.97,384.17,15,Out of Stock,29,4.6,18,PlatformA,408
+SKU_29220,Tropicana Chips 500g,Britannia,Snacks,65.37,58.83,10,In Stock,42,4.3,14,PlatformA,844
+SKU_83155,Nestle Juice 500g,Pepsi,Staples,365.05,365.05,0,In Stock,1,4.0,21,PlatformA,229
+SKU_67209,Nestle Cheese 1L,Amul,Dairy,99.9,89.91,10,In Stock,9,4.2,12,PlatformA,814
+SKU_31707,Amul Eggs 1L,Local,Dairy,246.15,123.08,50,In Stock,49,3.5,16,PlatformA,717
+SKU_36117,Pepsi Chips 500g,Lays,Staples,168.3,159.88,5,Low Stock,0,3.9,24,PlatformA,691
+SKU_95895,Pepsi Juice 1L,Haldirams,Dairy,368.47,313.2,15,Out of Stock,31,4.5,11,PlatformA,457
+SKU_47763,Britannia Water 1L,Haldirams,Snacks,473.55,473.55,0,Low Stock,10,4.1,8,PlatformA,780
+SKU_95077,Amul Noodles 1L,Lays,Beverages,98.05,93.15,5,In Stock,36,5.0,8,PlatformA,735
+SKU_53248,Haldirams Eggs Pack of 2,Haldirams,Staples,95.29,47.65,50,Low Stock,25,4.8,20,PlatformA,525
+SKU_74576,Nestle Eggs 500g,Haldirams,Bakery,302.84,302.84,0,In Stock,4,3.3,8,PlatformA,717
+SKU_81390,Pepsi Milk 1L,Nestle,Dairy,281.78,267.69,5,Out of Stock,10,3.6,9,PlatformA,210
+SKU_60868,Nestle Bread 200g,Pepsi,Snacks,454.55,431.82,5,Out of Stock,26,4.9,13,PlatformA,306
+SKU_52297,Lays Cola 200g,Britannia,Dairy,128.85,103.08,20,In Stock,15,4.5,10,PlatformA,413
+SKU_34287,Tropicana Milk 200g,Lays,Staples,423.59,338.87,20,Out of Stock,49,4.1,21,PlatformA,767
+SKU_16157,Tropicana Water 500g,Amul,Dairy,96.85,96.85,0,In Stock,49,4.6,9,PlatformA,835
+SKU_33622,Haldirams Cola 1L,Britannia,Dairy,29.96,28.46,5,Out of Stock,20,4.2,25,PlatformA,975
+SKU_54811,Nestle Noodles Pack of 2,Britannia,Dairy,320.28,160.14,50,Low Stock,2,4.6,21,PlatformA,524
+SKU_10231,Pepsi Cheese 500g,Britannia,Dairy,452.83,452.83,0,In Stock,48,3.0,12,PlatformA,653
+SKU_98979,Local Juice 500g,Haldirams,Staples,238.26,119.13,50,Low Stock,19,3.3,12,PlatformA,277
+SKU_78269,Lays Cheese 1L,Tropicana,Beverages,228.22,193.99,15,In Stock,37,3.7,12,PlatformA,150
+SKU_65089,Local Bread Pack of 2,Pepsi,Staples,265.31,252.04,5,Out of Stock,12,3.7,21,PlatformA,853
+SKU_45958,Local Eggs 500g,Pepsi,Bakery,494.25,494.25,0,In Stock,36,4.2,17,PlatformA,281
+SKU_46028,Lays Noodles 500g,Pepsi,Bakery,171.59,154.43,10,In Stock,15,4.9,12,PlatformA,133
+SKU_94770,Lays Water 500g,Local,Bakery,113.1,96.13,15,In Stock,28,4.7,22,PlatformA,804
+SKU_62034,Haldirams Chips Pack of 2,Tropicana,Bakery,68.17,61.35,10,In Stock,28,3.6,18,PlatformA,547
+SKU_64784,Amul Cheese Pack of 2,Local,Beverages,498.88,424.05,15,Out of Stock,26,3.5,24,PlatformA,649
+SKU_27572,Haldirams Bread 500g,Nestle,Beverages,381.34,343.21,10,In Stock,31,3.9,10,PlatformA,523
+SKU_14458,Nestle Cola 500g,Local,Staples,35.21,35.21,0,Low Stock,30,4.6,9,PlatformA,149
+SKU_70990,Lays Bread Pack of 2,Pepsi,Staples,77.17,77.17,0,In Stock,45,4.8,11,PlatformA,155
+SKU_42445,Britannia Noodles 500g,Lays,Dairy,221.71,110.86,50,In Stock,40,3.7,9,PlatformA,408
+SKU_20175,Britannia Juice 1L,Amul,Dairy,297.76,253.1,15,Low Stock,24,4.0,11,PlatformA,961
+SKU_77583,Tropicana Water 1L,Pepsi,Staples,240.51,240.51,0,In Stock,45,3.2,20,PlatformA,254
+SKU_46417,Local Noodles 200g,Tropicana,Bakery,61.96,52.67,15,Out of Stock,0,4.6,22,PlatformA,366
+SKU_80816,Pepsi Juice 200g,Nestle,Staples,130.57,65.28,50,In Stock,31,3.7,10,PlatformA,195
+SKU_68476,Haldirams Butter 1L,Lays,Beverages,194.41,97.2,50,In Stock,14,3.8,8,PlatformA,977
+SKU_27114,Amul Chips Pack of 2,Local,Staples,251.57,125.78,50,In Stock,30,4.8,10,PlatformA,969
+SKU_39848,Tropicana Cheese 500g,Britannia,Snacks,415.32,353.02,15,In Stock,10,3.2,20,PlatformA,655
+SKU_71382,Nestle Cola 200g,Lays,Beverages,358.38,304.62,15,In Stock,19,4.5,19,PlatformA,311
+SKU_99878,Pepsi Noodles Pack of 2,Britannia,Bakery,53.87,43.1,20,In Stock,23,4.3,21,PlatformA,237
+SKU_32454,Tropicana Noodles 500g,Britannia,Bakery,165.21,148.69,10,In Stock,28,3.2,14,PlatformA,927
+SKU_29059,Haldirams Cola 200g,Lays,Snacks,409.54,348.11,15,Low Stock,33,3.5,17,PlatformA,763
+SKU_21178,Tropicana Water 500g,Haldirams,Bakery,460.37,368.3,20,In Stock,3,4.6,18,PlatformA,752
+SKU_74551,Amul Juice 1L,Lays,Beverages,140.47,140.47,0,In Stock,0,3.8,8,PlatformA,352
+SKU_26598,Tropicana Milk 1L,Britannia,Staples,460.78,391.66,15,Out of Stock,49,4.8,14,PlatformA,473
+SKU_56444,Lays Noodles Pack of 2,Amul,Staples,487.53,463.15,5,Out of Stock,0,4.2,8,PlatformA,813
+SKU_84819,Lays Cola Pack of 2,Local,Dairy,180.24,90.12,50,Out of Stock,46,3.3,11,PlatformA,775
+SKU_60467,Amul Butter 1L,Lays,Bakery,214.44,214.44,0,In Stock,5,3.2,8,PlatformA,582
+SKU_82639,Nestle Bread 500g,Tropicana,Staples,202.37,101.19,50,In Stock,2,4.5,20,PlatformA,819
+SKU_47896,Local Milk 1L,Local,Snacks,459.34,413.41,10,Low Stock,46,3.1,16,PlatformA,120
+SKU_56202,Tropicana Eggs 1L,Amul,Bakery,451.35,428.78,5,Out of Stock,13,3.2,16,PlatformA,969
+SKU_35133,Britannia Bread Pack of 2,Lays,Staples,272.11,272.11,0,In Stock,36,3.9,8,PlatformA,861
+SKU_55551,Local Cheese 200g,Nestle,Staples,286.45,286.45,0,In Stock,2,3.1,17,PlatformA,394
+SKU_54575,Local Noodles 200g,Pepsi,Beverages,428.34,364.09,15,In Stock,27,4.1,25,PlatformA,606
+SKU_52301,Britannia Noodles 200g,Britannia,Dairy,167.15,83.58,50,In Stock,28,3.9,25,PlatformA,206
+SKU_66333,Amul Noodles 500g,Lays,Bakery,255.19,255.19,0,Out of Stock,1,3.4,21,PlatformA,430
+SKU_26446,Nestle Noodles 500g,Amul,Dairy,404.03,404.03,0,In Stock,16,4.5,25,PlatformA,777
+SKU_29146,Nestle Milk 500g,Pepsi,Snacks,405.02,344.27,15,In Stock,20,4.2,9,PlatformA,332
+SKU_24804,Nestle Milk 1L,Amul,Staples,102.81,82.25,20,Low Stock,15,3.5,24,PlatformA,675
+SKU_49109,Britannia Juice 1L,Amul,Beverages,495.27,445.74,10,In Stock,32,4.1,8,PlatformA,512
+SKU_23618,Local Butter 500g,Lays,Dairy,342.38,342.38,0,In Stock,34,4.9,8,PlatformA,915
+SKU_79441,Nestle Eggs Pack of 2,Tropicana,Snacks,340.06,170.03,50,In Stock,13,4.9,20,PlatformA,601
+SKU_70422,Amul Juice 1L,Nestle,Staples,201.87,161.5,20,In Stock,41,3.3,24,PlatformA,837
+SKU_89417,Pepsi Milk 200g,Nestle,Beverages,28.99,14.49,50,In Stock,7,4.6,12,PlatformA,101
+SKU_33666,Haldirams Milk 1L,Nestle,Bakery,220.71,176.57,20,In Stock,43,4.7,9,PlatformA,486
+SKU_19438,Pepsi Bread Pack of 2,Local,Bakery,496.87,496.87,0,In Stock,13,4.3,9,PlatformA,615
+SKU_65103,Nestle Water 1L,Nestle,Beverages,216.34,205.52,5,In Stock,22,4.8,12,PlatformA,284
+SKU_93679,Britannia Chips 1L,Tropicana,Snacks,57.85,57.85,0,In Stock,5,4.6,15,PlatformA,749
+SKU_32025,Tropicana Juice 1L,Nestle,Bakery,406.6,345.61,15,Low Stock,21,3.4,20,PlatformA,438
+SKU_67145,Lays Eggs Pack of 2,Local,Staples,114.27,102.84,10,Low Stock,0,4.3,22,PlatformA,850
+SKU_26543,Pepsi Water 500g,Pepsi,Beverages,284.02,284.02,0,In Stock,17,3.0,19,PlatformA,997
+SKU_56983,Lays Noodles Pack of 2,Local,Staples,489.95,440.95,10,Low Stock,0,3.5,18,PlatformA,861
+SKU_47927,Nestle Milk Pack of 2,Pepsi,Snacks,148.91,141.46,5,In Stock,50,3.9,13,PlatformA,271
+SKU_32684,Amul Noodles 1L,Britannia,Beverages,350.99,280.79,20,In Stock,17,3.4,22,PlatformA,721
+SKU_55635,Lays Cheese 200g,Haldirams,Snacks,415.08,207.54,50,Low Stock,0,4.0,13,PlatformA,546
+SKU_74415,Local Cola 500g,Pepsi,Beverages,365.08,346.83,5,Out of Stock,4,4.7,21,PlatformA,823
+SKU_91516,Nestle Cheese Pack of 2,Tropicana,Bakery,318.7,318.7,0,In Stock,15,3.4,14,PlatformA,660
+SKU_94391,Nestle Cola Pack of 2,Lays,Snacks,321.85,321.85,0,Low Stock,45,3.8,23,PlatformA,487
+SKU_28220,Tropicana Chips 1L,Britannia,Dairy,229.63,229.63,0,Low Stock,41,3.7,25,PlatformA,963
+SKU_38234,Local Bread 200g,Nestle,Staples,363.63,345.45,5,Low Stock,18,3.6,24,PlatformA,620
+SKU_62697,Local Eggs 1L,Haldirams,Dairy,289.04,245.68,15,In Stock,28,3.3,10,PlatformA,873
+SKU_95802,Britannia Butter 200g,Pepsi,Snacks,382.47,305.98,20,In Stock,5,3.5,23,PlatformA,884
+SKU_59534,Haldirams Cola Pack of 2,Local,Snacks,243.77,121.89,50,In Stock,14,3.6,10,PlatformA,215
+SKU_30684,Amul Butter 200g,Nestle,Beverages,124.66,112.19,10,In Stock,24,4.5,22,PlatformA,780
+SKU_39555,Amul Milk 500g,Nestle,Beverages,99.89,49.95,50,Low Stock,22,4.6,12,PlatformA,332
+SKU_98577,Britannia Chips 200g,Tropicana,Bakery,224.38,213.16,5,In Stock,4,4.5,13,PlatformA,960
+SKU_21007,Pepsi Juice 200g,Nestle,Dairy,33.98,30.58,10,In Stock,13,4.2,13,PlatformA,232
+SKU_17239,Lays Water 1L,Pepsi,Dairy,309.19,247.35,20,Low Stock,44,3.5,16,PlatformA,249
+SKU_67724,Lays Butter 1L,Lays,Staples,22.87,21.73,5,Low Stock,50,3.6,14,PlatformA,135
+SKU_27018,Tropicana Chips 1L,Tropicana,Staples,362.07,289.66,20,In Stock,35,4.2,25,PlatformA,760
+SKU_61014,Local Eggs 200g,Lays,Beverages,194.62,155.7,20,In Stock,14,4.1,19,PlatformA,852
+SKU_32695,Pepsi Eggs 200g,Amul,Snacks,198.34,168.59,15,In Stock,19,4.4,20,PlatformA,107
+SKU_43018,Tropicana Water 500g,Lays,Bakery,433.94,216.97,50,Out of Stock,44,4.7,24,PlatformA,201
+SKU_65367,Local Cola 200g,Nestle,Dairy,440.33,418.31,5,In Stock,35,4.1,19,PlatformA,822
+SKU_10597,Amul Eggs Pack of 2,Lays,Beverages,146.41,117.13,20,In Stock,44,4.2,15,PlatformA,782
+SKU_57784,Pepsi Cola 500g,Tropicana,Bakery,337.67,337.67,0,Out of Stock,3,3.1,19,PlatformA,539
+SKU_73856,Britannia Water 500g,Lays,Bakery,398.41,358.57,10,Out of Stock,34,4.6,16,PlatformA,384
+SKU_88133,Lays Eggs 200g,Nestle,Bakery,50.81,43.19,15,In Stock,24,4.1,8,PlatformA,247
+SKU_68036,Haldirams Cola Pack of 2,Local,Snacks,295.21,236.17,20,Out of Stock,25,3.7,11,PlatformA,667
+SKU_86280,Haldirams Noodles 200g,Tropicana,Beverages,198.44,198.44,0,In Stock,20,3.4,22,PlatformA,762
+SKU_66896,Haldirams Noodles Pack of 2,Nestle,Snacks,421.4,337.12,20,In Stock,7,4.2,12,PlatformA,635
+SKU_93088,Lays Noodles 500g,Pepsi,Staples,132.29,105.83,20,Low Stock,10,4.1,14,PlatformA,514
+SKU_19762,Local Milk 500g,Tropicana,Dairy,213.2,202.54,5,Low Stock,0,3.6,11,PlatformA,914
+SKU_94495,Pepsi Chips Pack of 2,Haldirams,Snacks,148.24,140.83,5,In Stock,26,5.0,22,PlatformA,381
+SKU_11572,Lays Juice 500g,Nestle,Dairy,287.47,273.1,5,In Stock,26,3.0,20,PlatformA,355
+SKU_23658,Pepsi Cheese 500g,Amul,Dairy,356.76,178.38,50,Low Stock,28,3.1,22,PlatformA,291
+SKU_94378,Amul Bread 1L,Amul,Beverages,271.92,231.13,15,In Stock,41,4.1,15,PlatformA,969
+SKU_13991,Tropicana Cola 1L,Pepsi,Dairy,461.31,461.31,0,In Stock,31,3.1,9,PlatformA,850
+SKU_33836,Tropicana Cola Pack of 2,Local,Bakery,93.57,84.21,10,In Stock,23,3.5,22,PlatformA,930
+SKU_63970,Local Chips 200g,Haldirams,Staples,327.81,327.81,0,Out of Stock,50,3.2,22,PlatformA,887
+SKU_38683,Pepsi Butter 1L,Britannia,Beverages,192.18,192.18,0,Low Stock,0,4.4,18,PlatformA,879
+SKU_37570,Pepsi Chips 200g,Pepsi,Bakery,110.51,110.51,0,In Stock,47,3.1,21,PlatformA,504
+SKU_18974,Nestle Milk 500g,Britannia,Beverages,375.23,337.71,10,In Stock,38,3.3,8,PlatformA,484
+SKU_67875,Pepsi Milk 200g,Britannia,Beverages,223.78,111.89,50,Low Stock,48,3.4,9,PlatformA,347
+SKU_81413,Amul Juice 500g,Haldirams,Staples,139.28,139.28,0,Out of Stock,21,4.1,16,PlatformA,933
+SKU_32117,Pepsi Milk 500g,Haldirams,Snacks,143.99,115.19,20,In Stock,19,4.9,20,PlatformA,375
+SKU_98961,Nestle Chips 500g,Nestle,Beverages,268.29,268.29,0,In Stock,14,4.9,25,PlatformA,272

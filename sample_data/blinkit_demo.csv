@@ -1,0 +1,11 @@
+Item_Type,Item_MRP,Item_Visibility,Outlet_Type,Location_Type,Customer_Rating,Order_Value
+Fruits and Vegetables,420,0.04,Supermarket,Urban,4.5,620
+Dairy,180,0.06,Supermarket,Urban,4.2,410
+Snacks,250,0.08,Grocery Store,Semiurban,3.9,360
+Beverages,310,0.03,Supermarket,Rural,4.1,520
+Household,540,0.10,Supermarket,Urban,4.6,780
+Frozen Foods,390,0.05,Grocery Store,Urban,3.7,445
+Bakery,220,0.07,Supermarket,Semiurban,4.3,390
+Meat,610,0.02,Supermarket,Urban,4.7,910
+Canned,170,0.11,Grocery Store,Rural,3.8,300
+Health and Hygiene,275,0.04,Supermarket,Semiurban,4.4,455

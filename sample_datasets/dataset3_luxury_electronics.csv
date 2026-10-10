@@ -1,0 +1,151 @@
+product_id,product_name,brand,category,mrp,selling_price,discount_pct,availability,inventory,rating,delivery_eta,platform,sales_volume
+LUX_41052,Apple Vacuum Pro Max,Bose,Smart Home,87527.55,87527.55,0,Out of Stock,5,4.5,36,PremiumStore,43
+LUX_64785,Dyson TV Pro Max,Sony,Smart Home,130922.98,130922.98,0,Low Stock,2,4.6,38,PremiumStore,42
+LUX_90439,Samsung Speaker Pro Max,Apple,Electronics,9210.69,9210.69,0,In Stock,6,4.0,25,PremiumStore,40
+LUX_91550,Dyson Speaker Pro Max,Sony,Appliances,113854.41,102468.97,10,Low Stock,7,4.3,50,PremiumStore,6
+LUX_38823,Apple Phone Pro Max,Marshall,Electronics,53932.25,53932.25,0,Low Stock,0,4.7,47,PremiumStore,7
+LUX_76449,Bose Vacuum Pro Max,Bose,Electronics,118161.9,118161.9,0,Low Stock,0,4.7,39,PremiumStore,29
+LUX_27337,Apple Speaker Pro Max,Sony,Audio,71968.49,71968.49,0,Low Stock,0,4.4,29,PremiumStore,17
+LUX_16556,Bose Headphones Pro Max,Sony,Smart Home,8650.88,8650.88,0,Low Stock,1,4.1,53,PremiumStore,6
+LUX_50628,Samsung Watch Pro Max,Sony,Appliances,18575.18,16717.66,10,Out of Stock,0,4.8,48,PremiumStore,36
+LUX_96579,Marshall Phone Pro Max,Dyson,Appliances,54714.35,49242.92,10,In Stock,0,4.3,26,PremiumStore,29
+LUX_65780,Sony Vacuum Pro Max,Apple,Electronics,51385.51,46246.96,10,Out of Stock,0,4.3,57,PremiumStore,45
+LUX_51167,Samsung Phone Pro Max,LG,Audio,126180.16,126180.16,0,Out of Stock,10,4.9,41,PremiumStore,11
+LUX_32053,LG Tablet Pro Max,LG,Electronics,108340.38,102923.36,5,In Stock,6,4.3,67,PremiumStore,32
+LUX_59637,Dyson TV Pro Max,Apple,Audio,107842.84,97058.56,10,Out of Stock,7,4.4,41,PremiumStore,41
+LUX_79874,Samsung Tablet Pro Max,Bose,Smart Home,18712.58,16841.32,10,In Stock,4,4.6,55,PremiumStore,47
+LUX_99109,Bose Phone Pro Max,Bose,Electronics,30804.21,30804.21,0,In Stock,10,4.3,48,PremiumStore,40
+LUX_52164,Bose Tablet Pro Max,Sony,Electronics,80765.98,72689.38,10,Low Stock,1,4.1,50,PremiumStore,22
+LUX_27959,Samsung Tablet Pro Max,Marshall,Electronics,71479.27,71479.27,0,Out of Stock,0,4.1,68,PremiumStore,28
+LUX_31099,Dyson Vacuum Pro Max,LG,Audio,41478.52,39404.59,5,In Stock,0,4.4,30,PremiumStore,8
+LUX_49855,LG Vacuum Pro Max,Sony,Electronics,14393.26,12953.93,10,Low Stock,8,4.7,39,PremiumStore,48
+LUX_24271,Samsung Watch Pro Max,Marshall,Appliances,26772.9,24095.61,10,Out of Stock,0,4.7,64,PremiumStore,7
+LUX_30377,Sony Watch Pro Max,Bose,Appliances,78497.99,74573.09,5,Low Stock,10,5.0,31,PremiumStore,12
+LUX_87558,Sony Tablet Pro Max,Samsung,Electronics,120702.16,120702.16,0,Low Stock,2,4.8,56,PremiumStore,22
+LUX_99515,Samsung Headphones Pro Max,Apple,Appliances,146914.91,146914.91,0,Low Stock,5,4.7,38,PremiumStore,16
+LUX_57034,Bose Headphones Pro Max,Marshall,Electronics,13930.05,13930.05,0,Out of Stock,3,4.4,53,PremiumStore,12
+LUX_37739,Sony Vacuum Pro Max,Samsung,Audio,94037.45,94037.45,0,Low Stock,3,4.4,67,PremiumStore,15
+LUX_10422,Samsung Headphones Pro Max,Apple,Audio,49822.13,49822.13,0,Low Stock,6,4.8,48,PremiumStore,46
+LUX_52813,Sony Phone Pro Max,Dyson,Smart Home,20751.12,19713.56,5,Low Stock,5,4.7,58,PremiumStore,39
+LUX_81053,LG Speaker Pro Max,Dyson,Electronics,46934.43,46934.43,0,Low Stock,0,4.9,46,PremiumStore,14
+LUX_37276,Marshall TV Pro Max,Dyson,Smart Home,131316.49,118184.84,10,Out of Stock,0,4.4,35,PremiumStore,34
+LUX_13617,Samsung Watch Pro Max,Samsung,Audio,77677.41,77677.41,0,Low Stock,0,4.9,41,PremiumStore,37
+LUX_77829,Samsung Tablet Pro Max,Sony,Appliances,109743.35,104256.18,5,Low Stock,2,4.8,52,PremiumStore,41
+LUX_40113,Samsung TV Pro Max,Samsung,Appliances,68349.72,61514.75,10,Out of Stock,7,4.4,58,PremiumStore,39
+LUX_99316,Apple Phone Pro Max,Dyson,Audio,42870.42,42870.42,0,Low Stock,2,4.8,72,PremiumStore,17
+LUX_41030,Marshall Phone Pro Max,Apple,Smart Home,142747.28,142747.28,0,Low Stock,0,4.4,49,PremiumStore,40
+LUX_44774,Bose Tablet Pro Max,Bose,Electronics,10557.39,10557.39,0,Out of Stock,6,4.8,60,PremiumStore,42
+LUX_57353,Bose Watch Pro Max,Bose,Audio,47305.59,42575.03,10,In Stock,2,4.8,42,PremiumStore,33
+LUX_60295,Sony Watch Pro Max,Samsung,Electronics,88833.43,79950.09,10,Low Stock,0,5.0,56,PremiumStore,10
+LUX_85400,Marshall Headphones Pro Max,Bose,Electronics,12714.97,12079.22,5,Out of Stock,1,4.2,37,PremiumStore,15
+LUX_21244,Dyson Vacuum Pro Max,Samsung,Appliances,46707.51,44372.13,5,In Stock,8,4.7,33,PremiumStore,25
+LUX_55441,Samsung Speaker Pro Max,Sony,Electronics,125544.93,125544.93,0,Low Stock,0,4.9,71,PremiumStore,33
+LUX_68591,Samsung Phone Pro Max,Bose,Smart Home,110573.09,105044.44,5,Low Stock,4,4.9,55,PremiumStore,43
+LUX_82010,Samsung Phone Pro Max,Bose,Audio,129669.17,116702.25,10,Out of Stock,10,4.9,40,PremiumStore,38
+LUX_54014,Samsung Phone Pro Max,Apple,Electronics,117543.2,111666.04,5,Out of Stock,1,4.0,62,PremiumStore,43
+LUX_53743,Marshall TV Pro Max,Dyson,Appliances,45926.09,45926.09,0,Low Stock,0,4.2,52,PremiumStore,5
+LUX_98507,Dyson Phone Pro Max,Samsung,Smart Home,119718.83,119718.83,0,Low Stock,3,4.5,56,PremiumStore,12
+LUX_23656,Dyson TV Pro Max,Marshall,Appliances,9794.4,9304.68,5,Low Stock,6,4.2,64,PremiumStore,34
+LUX_24243,Samsung Speaker Pro Max,LG,Smart Home,10958.61,10958.61,0,Low Stock,8,4.3,39,PremiumStore,44
+LUX_96653,Samsung TV Pro Max,Marshall,Appliances,117767.71,117767.71,0,Low Stock,0,4.5,31,PremiumStore,35
+LUX_45896,LG Vacuum Pro Max,Sony,Electronics,49745.09,49745.09,0,In Stock,9,4.3,37,PremiumStore,18
+LUX_33446,Marshall TV Pro Max,Marshall,Electronics,6401.57,5761.41,10,Out of Stock,9,4.0,28,PremiumStore,36
+LUX_72870,Apple Phone Pro Max,Sony,Appliances,56687.52,56687.52,0,Out of Stock,0,4.2,52,PremiumStore,49
+LUX_39879,Marshall Headphones Pro Max,Apple,Electronics,44215.27,44215.27,0,Low Stock,9,4.8,35,PremiumStore,17
+LUX_86749,Samsung Speaker Pro Max,Marshall,Electronics,126701.35,120366.28,5,In Stock,2,4.6,60,PremiumStore,44
+LUX_60966,Sony Speaker Pro Max,Sony,Electronics,79004.99,79004.99,0,Out of Stock,5,4.0,57,PremiumStore,25
+LUX_87093,Sony TV Pro Max,Dyson,Electronics,135513.32,135513.32,0,In Stock,0,4.7,63,PremiumStore,18
+LUX_14859,LG Vacuum Pro Max,Bose,Audio,137269.66,137269.66,0,Low Stock,0,4.4,44,PremiumStore,48
+LUX_81292,Samsung Vacuum Pro Max,Samsung,Smart Home,102163.1,102163.1,0,In Stock,0,4.3,39,PremiumStore,22
+LUX_56960,Sony Tablet Pro Max,Samsung,Electronics,87401.01,78660.91,10,In Stock,9,4.7,47,PremiumStore,17
+LUX_35872,Apple Tablet Pro Max,Dyson,Appliances,127609.25,121228.79,5,Out of Stock,7,4.9,35,PremiumStore,26
+LUX_71314,Sony Vacuum Pro Max,Dyson,Audio,81539.64,77462.66,5,Low Stock,2,4.1,32,PremiumStore,11
+LUX_35432,Samsung Headphones Pro Max,LG,Electronics,44205.73,44205.73,0,Low Stock,2,4.4,37,PremiumStore,25
+LUX_23802,Marshall Phone Pro Max,Apple,Audio,72826.96,69185.61,5,Out of Stock,2,4.0,71,PremiumStore,35
+LUX_91003,Sony TV Pro Max,Marshall,Electronics,31520.1,28368.09,10,Low Stock,1,4.4,39,PremiumStore,47
+LUX_11742,Marshall Speaker Pro Max,Samsung,Smart Home,109756.21,98780.59,10,In Stock,6,4.3,45,PremiumStore,17
+LUX_63524,Bose Tablet Pro Max,Bose,Appliances,29989.54,28490.06,5,Low Stock,2,4.4,37,PremiumStore,43
+LUX_33476,Dyson Tablet Pro Max,Sony,Audio,32742.42,29468.18,10,In Stock,1,4.1,45,PremiumStore,44
+LUX_25662,Samsung Tablet Pro Max,Marshall,Appliances,30669.33,30669.33,0,Out of Stock,9,4.2,48,PremiumStore,24
+LUX_61100,Marshall Phone Pro Max,LG,Audio,109362.77,103894.63,5,Low Stock,4,4.6,32,PremiumStore,28
+LUX_24615,Apple Watch Pro Max,Apple,Smart Home,7656.28,7656.28,0,Low Stock,4,4.0,49,PremiumStore,11
+LUX_13635,Marshall Vacuum Pro Max,Dyson,Electronics,23221.72,22060.63,5,Low Stock,0,4.2,67,PremiumStore,44
+LUX_49051,Samsung Headphones Pro Max,Marshall,Smart Home,25700.97,23130.87,10,Low Stock,0,4.9,31,PremiumStore,23
+LUX_16911,Bose Headphones Pro Max,Dyson,Electronics,142012.65,142012.65,0,Low Stock,1,4.6,36,PremiumStore,6
+LUX_85978,Apple Watch Pro Max,Apple,Audio,43503.96,43503.96,0,Out of Stock,4,4.2,66,PremiumStore,42
+LUX_46095,Apple Tablet Pro Max,Samsung,Appliances,33112.93,29801.64,10,In Stock,10,4.4,68,PremiumStore,33
+LUX_50369,Sony Speaker Pro Max,Samsung,Audio,91704.33,91704.33,0,Low Stock,4,4.3,42,PremiumStore,37
+LUX_90910,Marshall Headphones Pro Max,Sony,Smart Home,86821.66,86821.66,0,Low Stock,10,4.0,65,PremiumStore,14
+LUX_12017,Samsung Speaker Pro Max,LG,Electronics,86930.36,82583.84,5,Out of Stock,0,4.7,72,PremiumStore,35
+LUX_45469,Dyson Phone Pro Max,Bose,Audio,116956.34,116956.34,0,In Stock,0,4.4,55,PremiumStore,15
+LUX_60857,Dyson Vacuum Pro Max,Apple,Electronics,81345.69,81345.69,0,Low Stock,10,4.0,40,PremiumStore,44
+LUX_30913,Dyson Watch Pro Max,LG,Audio,55076.17,52322.36,5,In Stock,0,4.3,30,PremiumStore,35
+LUX_51166,LG Tablet Pro Max,Apple,Appliances,47333.43,47333.43,0,In Stock,6,4.6,39,PremiumStore,44
+LUX_78328,Dyson Vacuum Pro Max,Sony,Audio,97392.92,92523.27,5,Low Stock,4,4.9,51,PremiumStore,31
+LUX_17992,Marshall Speaker Pro Max,Apple,Smart Home,117277.07,117277.07,0,In Stock,0,4.6,70,PremiumStore,50
+LUX_64356,Bose Watch Pro Max,Samsung,Appliances,137303.92,137303.92,0,Low Stock,4,4.8,43,PremiumStore,16
+LUX_33043,LG Watch Pro Max,Apple,Appliances,59994.09,59994.09,0,Out of Stock,0,4.4,46,PremiumStore,20
+LUX_12753,Sony Speaker Pro Max,Bose,Electronics,47331.05,47331.05,0,Low Stock,0,4.3,44,PremiumStore,13
+LUX_92746,Dyson Watch Pro Max,Sony,Audio,135769.3,135769.3,0,Low Stock,5,4.3,57,PremiumStore,12
+LUX_64002,Bose Speaker Pro Max,Apple,Appliances,25950.98,24653.43,5,In Stock,6,4.2,71,PremiumStore,45
+LUX_42167,Bose Speaker Pro Max,Apple,Appliances,67472.49,67472.49,0,Out of Stock,0,4.5,67,PremiumStore,13
+LUX_73175,Apple Headphones Pro Max,LG,Electronics,8437.62,7593.86,10,Low Stock,6,4.5,68,PremiumStore,34
+LUX_19044,Samsung Watch Pro Max,Sony,Smart Home,95868.82,86281.94,10,Low Stock,10,4.1,24,PremiumStore,34
+LUX_59074,Dyson Headphones Pro Max,LG,Audio,77228.05,77228.05,0,Low Stock,7,4.9,61,PremiumStore,34
+LUX_86709,Marshall Speaker Pro Max,Apple,Smart Home,95430.6,95430.6,0,Low Stock,4,4.6,39,PremiumStore,11
+LUX_22794,Samsung Speaker Pro Max,Marshall,Smart Home,97860.55,97860.55,0,In Stock,6,4.0,70,PremiumStore,11
+LUX_37419,Bose Tablet Pro Max,Dyson,Electronics,23152.48,20837.23,10,Out of Stock,9,4.2,32,PremiumStore,11
+LUX_97432,Marshall Tablet Pro Max,Sony,Electronics,66832.2,63490.59,5,In Stock,6,4.7,31,PremiumStore,19
+LUX_75091,Bose TV Pro Max,LG,Electronics,54292.76,54292.76,0,Low Stock,4,5.0,34,PremiumStore,43
+LUX_52172,Bose Watch Pro Max,Marshall,Appliances,114091.33,108386.76,5,In Stock,6,4.8,68,PremiumStore,36
+LUX_47493,Samsung Watch Pro Max,Sony,Smart Home,33967.74,30570.97,10,Low Stock,0,4.1,44,PremiumStore,35
+LUX_99871,Samsung TV Pro Max,Apple,Smart Home,143504.58,143504.58,0,Low Stock,0,4.8,60,PremiumStore,8
+LUX_30246,Samsung Watch Pro Max,Dyson,Electronics,48468.22,48468.22,0,Low Stock,2,4.0,54,PremiumStore,19
+LUX_93983,Apple Vacuum Pro Max,Apple,Electronics,118534.77,118534.77,0,Low Stock,1,4.9,34,PremiumStore,27
+LUX_76823,Sony Watch Pro Max,LG,Smart Home,21777.59,19599.83,10,In Stock,0,4.2,65,PremiumStore,49
+LUX_75429,Dyson Watch Pro Max,Samsung,Audio,105078.37,94570.53,10,In Stock,5,4.6,40,PremiumStore,20
+LUX_62616,Marshall TV Pro Max,LG,Appliances,32259.23,32259.23,0,Low Stock,5,4.9,50,PremiumStore,28
+LUX_72525,Samsung Watch Pro Max,Marshall,Electronics,108840.85,108840.85,0,Low Stock,2,4.0,59,PremiumStore,10
+LUX_84087,Marshall Tablet Pro Max,Sony,Appliances,103643.46,98461.29,5,Low Stock,0,4.3,37,PremiumStore,28
+LUX_77142,Marshall Phone Pro Max,Bose,Audio,136466.1,122819.49,10,Out of Stock,4,5.0,29,PremiumStore,24
+LUX_11234,Dyson TV Pro Max,Dyson,Appliances,142175.74,142175.74,0,Out of Stock,1,4.0,30,PremiumStore,8
+LUX_79762,Samsung Watch Pro Max,Marshall,Audio,42701.75,42701.75,0,Low Stock,10,4.3,58,PremiumStore,12
+LUX_61582,Dyson Phone Pro Max,Dyson,Electronics,81778.72,81778.72,0,Low Stock,0,4.7,45,PremiumStore,16
+LUX_10763,Apple Headphones Pro Max,Dyson,Audio,63259.48,63259.48,0,Out of Stock,0,4.4,69,PremiumStore,16
+LUX_34872,Sony Headphones Pro Max,Dyson,Appliances,40932.19,40932.19,0,Low Stock,0,4.7,50,PremiumStore,45
+LUX_89508,Marshall Watch Pro Max,Dyson,Electronics,80325.85,80325.85,0,Out of Stock,5,4.1,40,PremiumStore,20
+LUX_27217,Apple TV Pro Max,Bose,Smart Home,9701.62,8731.46,10,Low Stock,0,4.2,30,PremiumStore,10
+LUX_74236,Marshall Vacuum Pro Max,Marshall,Audio,50324.62,50324.62,0,Out of Stock,3,4.7,35,PremiumStore,35
+LUX_40125,Sony Headphones Pro Max,Dyson,Smart Home,148195.64,148195.64,0,In Stock,0,4.9,61,PremiumStore,44
+LUX_95063,Marshall Phone Pro Max,Marshall,Smart Home,102507.45,102507.45,0,Low Stock,7,4.7,50,PremiumStore,39
+LUX_68407,Dyson Speaker Pro Max,Samsung,Electronics,71328.0,67761.6,5,Low Stock,1,4.8,61,PremiumStore,40
+LUX_86958,Marshall Vacuum Pro Max,Dyson,Electronics,9129.33,9129.33,0,Low Stock,0,4.9,61,PremiumStore,21
+LUX_98858,Apple Tablet Pro Max,Marshall,Audio,111418.06,100276.25,10,Low Stock,0,4.1,49,PremiumStore,41
+LUX_99496,Samsung Headphones Pro Max,Apple,Audio,52560.09,52560.09,0,Low Stock,0,5.0,65,PremiumStore,7
+LUX_80538,Dyson Watch Pro Max,Marshall,Audio,90738.21,81664.39,10,In Stock,0,4.4,31,PremiumStore,49
+LUX_18430,Bose Speaker Pro Max,Samsung,Audio,118403.07,112482.92,5,Low Stock,1,4.5,59,PremiumStore,25
+LUX_93088,Samsung Watch Pro Max,Marshall,Electronics,40072.62,40072.62,0,Out of Stock,3,4.0,59,PremiumStore,36
+LUX_40152,Marshall Speaker Pro Max,Dyson,Electronics,47661.94,47661.94,0,Out of Stock,0,4.3,57,PremiumStore,42
+LUX_70535,Marshall Phone Pro Max,Bose,Appliances,47686.29,47686.29,0,Out of Stock,0,4.4,69,PremiumStore,50
+LUX_76693,Samsung Tablet Pro Max,Dyson,Audio,9907.7,8916.93,10,Out of Stock,1,4.1,24,PremiumStore,41
+LUX_23769,Marshall Watch Pro Max,Marshall,Audio,136359.56,136359.56,0,Low Stock,0,4.6,64,PremiumStore,46
+LUX_85277,Dyson TV Pro Max,Sony,Audio,130459.83,130459.83,0,Out of Stock,4,4.6,28,PremiumStore,11
+LUX_37092,Dyson Phone Pro Max,Sony,Appliances,91684.5,87100.27,5,Low Stock,9,4.6,25,PremiumStore,33
+LUX_18047,LG Headphones Pro Max,Samsung,Electronics,69381.16,69381.16,0,Out of Stock,0,4.5,41,PremiumStore,14
+LUX_94972,Apple Headphones Pro Max,Apple,Appliances,12792.92,12792.92,0,Low Stock,0,4.6,46,PremiumStore,21
+LUX_64282,Bose Tablet Pro Max,Bose,Appliances,51380.18,48811.17,5,Low Stock,0,4.9,26,PremiumStore,49
+LUX_66289,Dyson Phone Pro Max,Samsung,Audio,8083.09,8083.09,0,In Stock,0,4.8,63,PremiumStore,45
+LUX_40647,Apple Watch Pro Max,Apple,Audio,52979.6,52979.6,0,Low Stock,2,4.6,34,PremiumStore,7
+LUX_18718,LG Headphones Pro Max,Samsung,Smart Home,140583.41,140583.41,0,Out of Stock,5,4.8,53,PremiumStore,41
+LUX_96757,Marshall Tablet Pro Max,Marshall,Electronics,137870.73,137870.73,0,Low Stock,5,4.0,62,PremiumStore,16
+LUX_49095,Dyson Vacuum Pro Max,LG,Electronics,42901.82,42901.82,0,Low Stock,8,4.4,44,PremiumStore,40
+LUX_60967,Dyson Headphones Pro Max,Samsung,Smart Home,132621.32,132621.32,0,In Stock,6,4.5,63,PremiumStore,7
+LUX_57747,Sony Tablet Pro Max,Dyson,Electronics,7884.81,7490.57,5,Low Stock,10,4.1,43,PremiumStore,30
+LUX_82866,Bose TV Pro Max,Samsung,Smart Home,96607.87,86947.08,10,Out of Stock,3,5.0,27,PremiumStore,13
+LUX_95075,Sony Watch Pro Max,Sony,Audio,14582.35,13124.11,10,Low Stock,7,4.7,31,PremiumStore,50
+LUX_76281,Apple Watch Pro Max,Marshall,Appliances,130569.69,117512.72,10,Low Stock,0,4.3,34,PremiumStore,36
+LUX_11167,LG Watch Pro Max,Dyson,Smart Home,95543.11,95543.11,0,In Stock,2,4.9,71,PremiumStore,42
+LUX_67584,Marshall Phone Pro Max,LG,Electronics,139904.95,139904.95,0,Low Stock,5,4.9,62,PremiumStore,17
+LUX_85595,Bose Vacuum Pro Max,LG,Audio,92435.66,87813.88,5,Low Stock,8,4.5,52,PremiumStore,27
+LUX_68636,LG TV Pro Max,Samsung,Electronics,23349.75,23349.75,0,Low Stock,0,4.5,40,PremiumStore,50
+LUX_31074,Samsung Watch Pro Max,Apple,Appliances,68976.23,62078.61,10,In Stock,10,4.4,26,PremiumStore,44
